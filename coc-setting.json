@@ -1,0 +1,26 @@
+{
+  "coc.preferences.extensionUpdateCheck": "weekly",
+  "suggest.noselect": true,
+  "suggest.enablePreselect": false,
+  "suggest.completionItemKindLabels": {},
+  "diagnostic.displayByAle": false,
+  "diagnostic.refreshOnInsertMode": false,
+  "diagnostic.checkCurrentLine": true,
+  "diagnostic.virtualTextPrefix": " ❯❯❯ ",
+  "diagnostic.virtualText": false,
+  "coc.preferences.formatOnSaveFiletypes": [
+    "javascript",
+    "html",
+    "css",
+    "json",
+    "java",
+    "python",
+    "c",
+    "cpp",
+    "cs",
+    "bash"
+  ],
+  "snippets.ultisnips.directories": [
+    "UltiSnips"
+  ]
+}
