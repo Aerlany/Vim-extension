@@ -2,7 +2,7 @@
 
 ### **我的一些Vim8.2或Vim9.0基础配置**
 
-```tex
+```shell
 "==============================================================================
 "  __  ____     ____      _______ __  __ _____   _____ 
 "|  \/  \ \   / /\ \    / /_   _|  \/  |  __ \ / ____|
@@ -328,9 +328,9 @@ colorscheme snazzy
 
 ### 界面展示
 
-![Screenshot from 2022-10-31 22-43-41](./ReadmeImage/Screenshot from 2022-10-31 22-43-41.png)
+![Screenshot from 2022-10-31 22-43-41](https://github.com/aerlany/Vim-extension/blob/main/ReadmeImage/Screenshot%20from%202022-10-31%2022-43-41.png?raw=true)
 
-![Screenshot from 2022-10-31 22-48-24](./ReadmeImage/Screenshot from 2022-10-31 22-48-24.png)
+![Screenshot from 2022-10-31 22-48-24](https://github.com/aerlany/Vim-extension/blob/main/ReadmeImage/Screenshot%20from%202022-10-31%2022-48-24.png?raw=true)
 
 
 
